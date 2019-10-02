@@ -4,6 +4,6 @@
 Settings[Keys.Host] = "www.stevestefanovich.com";
 Settings[BlogKeys.Title] = "Steve Stefanovich";
 Settings[BlogKeys.Description] = "Steve's Archives";
-Settings[BlogKeys.Intro] = "Hello and welcome to my technical blog. I design and write software, wrangle SharePoint, and keep treading water. This my archive of what I've learned along the way.";
+Settings[BlogKeys.Intro] = "Hello and welcome to my technical blog. I design and write software, wrangle SharePoint, and keep treading water. This is my archive of what I've learned along the way.";
 
 // Add any pipeline customizations here
