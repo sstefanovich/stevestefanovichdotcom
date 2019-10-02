@@ -2,7 +2,7 @@ Title: Excuse the Dust
 Published: 7/29/2019
 Tags: [Introduction, Wyam, Netlify]
 ---
-Excuse the dust as I get this site setup. The first order of business is getting the stack in order and I plan to document each step along the way. 
+Excuse the dust as I get this site setup. The first order of business is getting the stack in order and I;ll try to document each step along the way. 
 
 # Step 1: Get a domain. 
 Thankfully my surname isn't all that common so getting my own name on the .com TLD turned out to be a non-issue. $11.99 and I'm all set. 
